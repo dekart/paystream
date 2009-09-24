@@ -1,0 +1,6 @@
+en:
+  paystream:
+    errors:
+      unconfirmed_payment: "Please confirm your payment"
+      invalid_request: "Invalid request"
+      unknown_action: "Unknown action code"

@@ -1,0 +1,6 @@
+ru:
+  paystream:
+    errors:
+      unconfirmed_payment: "Пожалуйста, подтвердите оплату"
+      invalid_request: "Неверный запрос"
+      unknown_action: "Неизвестный код действия"
